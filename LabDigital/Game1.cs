@@ -12,6 +12,7 @@ namespace LabDigital
         private int eiei;
         private int damn;
         private int wow;
+        private int garvity;
 
         public Game1()
         {
