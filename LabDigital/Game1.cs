@@ -11,6 +11,7 @@ namespace LabDigital
         private int speed;
         private int eiei;
         private int damn;
+        private int wow;
 
         public Game1()
         {
