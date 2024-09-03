@@ -10,6 +10,7 @@ namespace LabDigital
         private SpriteBatch _spriteBatch;
         private int speed;
         private int eiei;
+        private int damn;
 
         public Game1()
         {
