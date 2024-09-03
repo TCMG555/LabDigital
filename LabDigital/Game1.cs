@@ -8,6 +8,7 @@ namespace LabDigital
     {
         private GraphicsDeviceManager _graphics;
         private SpriteBatch _spriteBatch;
+        private int speed; 
 
         public Game1()
         {
